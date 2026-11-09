@@ -1,1 +1,5 @@
-"# Comp3000" 
+"# Comp3000" - SmartWallet
+Supervisor - Fatma Bouabdallah
+
+Project Vision - 
+I am creating this application for everyday people who want to further understand their everyday spending habits in order to save money and predict their upcoming cost of living. The project will centre around providing in depth feedback on an individual's spending habits and use machine learning to predict their upcoming expenses. The problem being tackled is the lack of personal feedback from financial service providers who do not focus on forecasting. Meaning users do not learn from their spending habits and remain stuck in similar spending cycles. My project will also explain how conclusions were reached as well as again using forecasting to predict future account balances and spending habits. The product will be called SmartWallet and is an AI-powered personal finance application that takes transactional finance data such as mortgage payments, bills, subscriptions as well as personal spending habits and uses previous contextual spending data to track and predict future spending habits and account balances, whilst also providing personalised feedback and explanations of calculations. Aiming to allow users to make more informed financial decisions. 
